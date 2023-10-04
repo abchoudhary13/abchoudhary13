@@ -37,7 +37,7 @@
 ## ‍<img style="vertical-align: sub" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> Coding Profile:
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anuj0165/)
-[![codeforces](https://img.shields.io/badge/-Codeforces-2EC866?style=for-the-badge&logo=Codeforces&logoColor=white))](https://codeforces.com/profile/abchoudhary13)
+[![codeforces](https://img.shields.io/badge/-Codeforces-2EC866?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abchoudhary13)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abchoudhary13)
 
 ## ♨ Languages and Tools:
