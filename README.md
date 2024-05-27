@@ -1,9 +1,9 @@
 <h1 align='center'>
   Hi there <img style="vertical-align: sub" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hands" width="40" /> I'm Anuj 👨
 </h1>
-<div align='center'>
+<!-- <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=abchoudhary13&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+</div> -->
 
 🔭 I’m currently working on **Admin Dashboard Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
