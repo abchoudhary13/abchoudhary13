@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=abchoudhary13&style=flat-square&color=blue" alt="Profile Views" />
 </div> -->
 
-🔭 I’m currently working on **Admin Dashboard Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working as **Full Stack Web Developer** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
 
