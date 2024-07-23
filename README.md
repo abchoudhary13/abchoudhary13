@@ -7,7 +7,7 @@
 
 🔭 I’m currently working as **Full Stack Web Developer** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-🏫 I’m currently learning **Next js by doing Project**
+🏫 I’m currently learning **Frontend System Design**
 
 🔎 I’m looking to collaborate on **Open source Project**
 
