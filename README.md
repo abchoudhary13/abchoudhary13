@@ -9,7 +9,7 @@
 
 🏫 I’m currently learning **Frontend System Design**
 
-🔎 I’m looking to collaborate on **Open source Project**
+<!-- 🔎 I’m looking to collaborate on **Open source Project** -->
 
 💬 Ask me about **Frontend Development**
 
